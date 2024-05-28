@@ -7,7 +7,7 @@
 - **프로그래밍 언어:** Java, Python, JavaScript, SQL, AJAX
 - **프레임워크:** Spring Boot, Flask
 - **도구:** Git, Docker, OpenAI API, OpenCV
-- **플랫폼:** Android, macOS
+- **플랫폼:** Android, MacOS
 
 ## 📂 프로젝트
 
